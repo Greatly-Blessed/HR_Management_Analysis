@@ -1,1 +1,3 @@
-# HR_Management_Analysis
+# HR_Management_Analysis 
+
+### Project Objective
